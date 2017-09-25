@@ -24,7 +24,7 @@
   },
   "image": "heroku/php",
   "addons": [
-    "jawsdb:leopard",
+    "jawsdb:kitefin",
     "cleardb",
     "heroku-postgresql",
     "semaphore",
